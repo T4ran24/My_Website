@@ -15,7 +15,7 @@ This project was created as a group project by Nuray, Nəcəf, Turan, and Mədin
 
 ## Technologies Used
 - *Front-end:* HTML, CSS, JavaScript
-- *Database:* JSON files
+- *Database:* Local in JS
 - *Version Control:* Git and GitHub
 
 ## Project Setup
