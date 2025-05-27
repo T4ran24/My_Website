@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "name": "PandaPal Bracelets",
+        "price": 20,
+        "img_src": "Accesories_Images/Accesories1.jpeg",
+        "description": "Colorful woven bracelets with cute panda charms...",
+        "category": "accessories"
+    },
+    {
+        "id": 2,
+        "name": "SunWeave Shawl",
+        "price": 30,
+        "img_src": "Accesories_Images/Accesories2.jpeg",
+        "description": "A vibrant, hand-crocheted shawl with a gradient...",
+        "category": "accessories"
+    },
+    {
+        "id": 3,
+        "name": "IridaSpin Ring",
+        "price": 50,
+        "img_src": "Accesories_Images/Accesories3.jpeg",
+        "description": "A stainless steel ring with a spinning iridescent band...",
+        "category": "accessories"
+    },
+    {
+        "id": 4,
+        "name": "NovaFit Smartwatch",
+        "price": 150,
+        "img_src": "Accesories_Images/Accesories4.jpeg",
+        "description": "A sleek smartwatch with fitness tracking...",
+        "category": "accessories"
+    },
+    {
+        "id": 5,
+        "name": "OceanPulse Watch",
+        "price": 210,
+        "img_src": "Accesories_Images/Accesories5.jpeg",
+        "description": "A stylish two-tone watch with a deep blue face...",
+        "category": "accessories"
+    },
+    {
+        "id": 6,
+        "name": "SkyShade Sunglasses",
+        "price": 15,
+        "img_src": "Accesories_Images/Accesories6.jpeg",
+        "description": "Modern sunglasses with polarized blue lenses...",
+        "category": "accessories"
+    },
+    {
+        "id": 7,
+        "name": "Gold Standart Whey Protein",
+        "price": 140,
+        "img_src": "Sport_Images/Sport_Section1.jpg",
+        "description": "Premium Whey Protein – build muscle, recover faster...",
+        "category": "sport"
+    },
+    {
+        "id": 8,
+        "name": "Gold Creatine",
+        "price": 40,
+        "img_src": "Sport_Images/Sport_Section2.jpg",
+        "description": "Gold Creatine – boost your power, improve endurance...",
+        "category": "sport"
+    },
+    {
+        "id": 9,
+        "name": "Superior Amino 2222",
+        "price": 50,
+        "img_src": "Sport_Images/Sport_Section3.jpg",
+        "description": "Amino – support muscle recovery, enhance endurance...",
+        "category": "sport"
+    },
+    {
+        "id": 10,
+        "name": "BCAA 1000",
+        "price": 30,
+        "img_src": "Sport_Images/Sport_Section4.jpg",
+        "description": "BCAA – boost muscle growth, reduce fatigue...",
+        "category": "sport"
+    },
+    {
+        "id": 11,
+        "name": "Mk-677",
+        "price": 60,
+        "img_src": "Sport_Images/Sport_Section5.jpg",
+        "description": "MK-677 – stimulate growth hormone, boost muscle gains...",
+        "category": "sport"
+    },
+    {
+        "id": 12,
+        "name": "ISO Whey Protein",
+        "price": 80,
+        "img_src": "Sport_Images/Sport_Section6.jpg",
+        "description": "ISO Protein – pure whey isolate for fast muscle recovery...",
+        "category": "sport"
+    },
+    {
+        "id": 13,
+        "name": "Bare Vanilla Body Lotion",
+        "price": 20,
+        "img_src": "Beauty_Images/vs.bodylotion.barevanilla.png",
+        "description": "Celebrate the collection that celebrates you...",
+        "category": "beauty"
+    },
+    {
+        "id": 14,
+        "name": "Love Spell Body Mist",
+        "price": 23,
+        "img_src": "Beauty_Images/body-mist-250ml-original-love-spell.jpg",
+        "description": "Refreshing body mist with cherry blossom and peach scent...",
+        "category": "beauty"
+    },
+    {
+        "id": 15,
+        "name": "Dior Rosy Glow Blush",
+        "price": 40,
+        "img_src": "Beauty_Images/diorblush.jpeg",
+        "description": "Iconic blush that reacts to skin's moisture level...",
+        "category": "beauty"
+    },
+    {
+        "id": 16,
+        "name": "YSL Lash Clash Mascara",
+        "price": 33,
+        "img_src": "Beauty_Images/Yves Saint Laurent Lash Clash Extreme Volume Mascara.webp",
+        "description": "A couture mascara with an oversized brush...",
+        "category": "beauty"
+    },
+    {
+        "id": 17,
+        "name": "NARS Powermatte Lipstick",
+        "price": 34,
+        "img_src": "Beauty_Images/nars.lipstick.webp",
+        "description": "A transfer-resistant, matte lipstick that glides on...",
+        "category": "beauty"
+    },
+    {
+        "id": 18,
+        "name": "Rare Beauty Lip Oil",
+        "price": 22,
+        "img_src": "Beauty_Images/rarebeautylipoil.jpeg",
+        "description": "An innovative gel-to-oil formula that starts glossy...",
+        "category": "beauty"
+    },
+    {
+        "id": 19,
+        "name": "Imagination",
+        "price": 899,
+        "img_src": "Parfume_Images/Parfume_Section1.jpg",
+        "description": "Louis Vuitton Imagination is a vibrant, citrus-aromatic...",
+        "category": "parfume"
+    },
+    {
+        "id": 20,
+        "name": "L'lmmensite",
+        "price": 499,
+        "img_src": "Parfume_Images/Parfume_Section2.jpg",
+        "description": "L'Immensité by Louis Vuitton is a vibrant...",
+        "category": "parfume"
+    },
+    {
+        "id": 21,
+        "name": "Ombre Nomade",
+        "price": 1000,
+        "img_src": "Parfume_Images/Parfume_Section3.jpg",
+        "description": "Ombre Nomade by Louis Vuitton is a luxurious...",
+        "category": "parfume"
+    },
+    {
+        "id": 22,
+        "name": "Afternoon Swim",
+        "price": 860,
+        "img_src": "Parfume_Images/Parfume_Section4.jpg",
+        "description": "Afternoon Swim by Louis Vuitton is a vibrant...",
+        "category": "parfume"
+    },
+    {
+        "id": 23,
+        "name": "Pacific Chill",
+        "price": 687,
+        "img_src": "Parfume_Images/Parfume_Section5.jpg",
+        "description": "Pacific Chill by Louis Vuitton is a refreshing...",
+        "category": "parfume"
+    },
+    {
+        "id": 24,
+        "name": "Parfums de Marly Layton",
+        "price": 350,
+        "img_src": "Parfume_Images/Parfume_Section6.jpeg",
+        "description": "Layton by Parfums de Marly is a luxurious...",
+        "category": "parfume"
+    }
+]
